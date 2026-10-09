@@ -1,0 +1,3874 @@
+{
+  "insurgence": [
+    {
+      "id": "deltavenusaur",
+      "name": "Delta Venusaur",
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltacharizard",
+      "name": "Delta Charizard",
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "bst": 534,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltablastoise",
+      "name": "Delta Blastoise",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltabisharp",
+      "name": "Delta Bisharp",
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "bst": 490,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagardevoir",
+      "name": "Delta Gardevoir",
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "bst": 518,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagallade",
+      "name": "Delta Gallade",
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "bst": 518,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltasunflora",
+      "name": "Delta Sunflora",
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "bst": 425,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaavalugg",
+      "name": "Delta Avalugg",
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "bst": 514,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltascizor",
+      "name": "Delta Scizor",
+      "types": [
+        "Ice",
+        "Fighting"
+      ],
+      "bst": 500,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltascrafty",
+      "name": "Delta Scrafty",
+      "types": [
+        "Grass"
+      ],
+      "bst": 488,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltavespiquen",
+      "name": "Delta Vespiquen",
+      "types": [
+        "Steel",
+        "Fire"
+      ],
+      "bst": 474,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaweezing",
+      "name": "Delta Weezing",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "bst": 490,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaliepard",
+      "name": "Delta Liepard",
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "bst": 446,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltatrevenant",
+      "name": "Delta Trevenant",
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "bst": 474,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaglalie",
+      "name": "Delta Glalie",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltafroslass",
+      "name": "Delta Froslass",
+      "types": [
+        "Fire"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaluxray",
+      "name": "Delta Luxray",
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "bst": 523,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltanoivern",
+      "name": "Delta Noivern",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "bst": 535,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaroserade",
+      "name": "Delta Roserade",
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "bst": 515,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltadrifblim",
+      "name": "Delta Drifblim",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "bst": 498,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamuk",
+      "name": "Delta Muk",
+      "types": [
+        "Ground"
+      ],
+      "bst": 500,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaquagsire",
+      "name": "Delta Quagsire",
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "bst": 430,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltasnorlax",
+      "name": "Delta Snorlax",
+      "types": [
+        "Grass"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamismagius",
+      "name": "Delta Mismagius",
+      "types": [
+        "Ice",
+        "Fairy"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltatyphlosion",
+      "name": "Delta Typhlosion",
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "bst": 534,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltasceptile",
+      "name": "Delta Sceptile",
+      "types": [
+        "Dragon",
+        "Fighting"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltablaziken",
+      "name": "Delta Blaziken",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltatorterra",
+      "name": "Delta Torterra",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaserperior",
+      "name": "Delta Serperior",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "bst": 528,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagreninja",
+      "name": "Delta Greninja",
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltapidgeot",
+      "name": "Delta Pidgeot",
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "bst": 479,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltadugtrio",
+      "name": "Delta Dugtrio",
+      "types": [
+        "Ice",
+        "Normal"
+      ],
+      "bst": 405,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaarcanine",
+      "name": "Delta Arcanine",
+      "types": [
+        "Normal",
+        "Dragon"
+      ],
+      "bst": 555,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagolem",
+      "name": "Delta Golem",
+      "types": [
+        "Psychic",
+        "Rock"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltatentacruel",
+      "name": "Delta Tentacruel",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "bst": 515,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltadodrio",
+      "name": "Delta Dodrio",
+      "types": [
+        "Psychic"
+      ],
+      "bst": 460,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltatangrowth",
+      "name": "Delta Tangrowth",
+      "types": [
+        "Ground",
+        "Fighting"
+      ],
+      "bst": 535,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaditto",
+      "name": "Delta Ditto",
+      "types": [
+        "Water"
+      ],
+      "bst": 288,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltakabutops",
+      "name": "Delta Kabutops",
+      "types": [
+        "Bug",
+        "Dark"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltadragonite",
+      "name": "Delta Dragonite",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltanoctowl",
+      "name": "Delta Noctowl",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "bst": 442,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalanturn",
+      "name": "Delta Lanturn",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "bst": 460,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaraichu",
+      "name": "Delta Raichu",
+      "types": [
+        "Flying",
+        "Fairy"
+      ],
+      "bst": 485,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaambipom",
+      "name": "Delta Ambipom",
+      "types": [
+        "Ghost",
+        "Normal"
+      ],
+      "bst": 482,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltayanmega",
+      "name": "Delta Yanmega",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "bst": 515,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagirafarig",
+      "name": "Delta Girafarig",
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "bst": 455,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltadunsparce",
+      "name": "Delta Dunsparce",
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "bst": 415,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltashuckle",
+      "name": "Delta Shuckle",
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "bst": 505,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaoctillery",
+      "name": "Delta Octillery",
+      "types": [
+        "Fire"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaelectivire",
+      "name": "Delta Electivire",
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamagmortar",
+      "name": "Delta Magmortar",
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaludicolo",
+      "name": "Delta Ludicolo",
+      "types": [
+        "Psychic",
+        "Water"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltashiftry",
+      "name": "Delta Shiftry",
+      "types": [
+        "Electric"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltasableye",
+      "name": "Delta Sableye",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "bst": 380,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamawile",
+      "name": "Delta Mawile",
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "bst": 380,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaaggron",
+      "name": "Delta Aggron",
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamedicham",
+      "name": "Delta Medicham",
+      "types": [
+        "Fairy",
+        "Ground"
+      ],
+      "bst": 410,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltacamerupt",
+      "name": "Delta Camerupt",
+      "types": [
+        "Poison"
+      ],
+      "bst": 460,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaplusle",
+      "name": "Delta Plusle",
+      "types": [
+        "Fire",
+        "Fairy"
+      ],
+      "bst": 405,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaminun",
+      "name": "Delta Minun",
+      "types": [
+        "Ice",
+        "Fairy"
+      ],
+      "bst": 405,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltawailord",
+      "name": "Delta Wailord",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "bst": 500,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamilotic",
+      "name": "Delta Milotic",
+      "types": [
+        "Ghost"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltahuntail",
+      "name": "Delta Huntail",
+      "types": [
+        "Dragon",
+        "Dark"
+      ],
+      "bst": 485,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagorebyss",
+      "name": "Delta Gorebyss",
+      "types": [
+        "Dragon",
+        "Fairy"
+      ],
+      "bst": 485,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltametagrossspider",
+      "name": "Delta Metagross (Spider)",
+      "types": [
+        "Ground",
+        "Bug"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltametagrossruin",
+      "name": "Delta Metagross (Ruin)",
+      "types": [
+        "Grass",
+        "Rock"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalopunny",
+      "name": "Delta Lopunny",
+      "types": [
+        "Fighting"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalucario",
+      "name": "Delta Lucario",
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltatoxicroak",
+      "name": "Delta Toxicroak",
+      "types": [
+        "Fire"
+      ],
+      "bst": 490,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltascolipede",
+      "name": "Delta Scolipede",
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "bst": 485,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalilligantwater",
+      "name": "Delta Lilligant (Water)",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalilligantfairy",
+      "name": "Delta Lilligant (Fairy)",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltareuniclus",
+      "name": "Delta Reuniclus",
+      "types": [
+        "Ghost",
+        "Rock"
+      ],
+      "bst": 490,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltadarmanitan",
+      "name": "Delta Darmanitan",
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamaractus",
+      "name": "Delta Maractus",
+      "types": [
+        "Steel"
+      ],
+      "bst": 461,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltacrustleberry",
+      "name": "Delta Crustle (Berry)",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "bst": 475,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltacrustlecake",
+      "name": "Delta Crustle (Cake)",
+      "types": [
+        "Fairy",
+        "Normal"
+      ],
+      "bst": 475,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltacofagrigus",
+      "name": "Delta Cofagrigus",
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "bst": 503,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaemolga",
+      "name": "Delta Emolga",
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "bst": 428,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaescavalier",
+      "name": "Delta Escavalier",
+      "types": [
+        "Fairy"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaamoonguss",
+      "name": "Delta Amoonguss",
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "bst": 464,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltachandelure",
+      "name": "Delta Chandelure",
+      "types": [
+        "Fairy",
+        "Fire"
+      ],
+      "bst": 520,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltahaxorus",
+      "name": "Delta Haxorus",
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagolurk",
+      "name": "Delta Golurk",
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "bst": 483,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaheatmor",
+      "name": "Delta Heatmor",
+      "types": [
+        "Poison",
+        "Steel"
+      ],
+      "bst": 484,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltahydreigon",
+      "name": "Delta Hydreigon",
+      "types": [
+        "Ground",
+        "Poison"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltavolcarona",
+      "name": "Delta Volcarona",
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "bst": 550,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaaurorus",
+      "name": "Delta Aurorus",
+      "types": [
+        "Grass",
+        "Water"
+      ],
+      "bst": 521,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagoodra",
+      "name": "Delta Goodra",
+      "types": [
+        "Ground",
+        "Water"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaregirock",
+      "name": "Delta Regirock",
+      "types": [
+        "Ground"
+      ],
+      "bst": 580,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaregice",
+      "name": "Delta Regice",
+      "types": [
+        "Water"
+      ],
+      "bst": 580,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaregisteel",
+      "name": "Delta Registeel",
+      "types": [
+        "Fire"
+      ],
+      "bst": 580,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltameloetta",
+      "name": "Delta Meloetta",
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltahoopa",
+      "name": "Delta Hoopa",
+      "types": [
+        "Flying"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "marowakmega",
+      "name": "Marowak-Mega",
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "bst": 525,
+      "tags": [
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "meganiummega",
+      "name": "Meganium-Mega",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "bst": 625,
+      "tags": [
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "feraligatrmega",
+      "name": "Feraligatr-Mega",
+      "types": [
+        "Water"
+      ],
+      "bst": 630,
+      "tags": [
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "flygonmega",
+      "name": "Flygon-Mega",
+      "types": [
+        "Bug",
+        "Dragon"
+      ],
+      "bst": 620,
+      "tags": [
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "crawdauntmega",
+      "name": "Crawdaunt-Mega",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "bst": 568,
+      "tags": [
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "spiritombmega",
+      "name": "Spiritomb-Mega",
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "bst": 585,
+      "tags": [
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltavenusaurmega",
+      "name": "Delta Venusaur-Mega",
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "bst": 625,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltablastoisemega",
+      "name": "Delta Blastoise-Mega",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 630,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltabisharpmega",
+      "name": "Delta Bisharp-Mega",
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "bst": 590,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagardevoirmega",
+      "name": "Delta Gardevoir-Mega",
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "bst": 618,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltagallademega",
+      "name": "Delta Gallade-Mega",
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "bst": 618,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltasunfloramega",
+      "name": "Delta Sunflora-Mega",
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltascizormega",
+      "name": "Delta Scizor-Mega",
+      "types": [
+        "Ice",
+        "Fighting"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltaglaliemega",
+      "name": "Delta Glalie-Mega",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "bst": 580,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltafroslassmega",
+      "name": "Delta Froslass-Mega",
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "bst": 580,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltapidgeotmega",
+      "name": "Delta Pidgeot-Mega",
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "bst": 579,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltasableyemega",
+      "name": "Delta Sableye-Mega",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltamawilemega",
+      "name": "Delta Mawile-Mega",
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltacameruptmega",
+      "name": "Delta Camerupt-Mega",
+      "types": [
+        "Poison"
+      ],
+      "bst": 560,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalopunnymega",
+      "name": "Delta Lopunny-Mega",
+      "types": [
+        "Fighting",
+        "Psychic"
+      ],
+      "bst": 580,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "deltalucariomega",
+      "name": "Delta Lucario-Mega",
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "bst": 625,
+      "tags": [
+        "delta",
+        "mega"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "tyranitararmor",
+      "name": "Tyranitar-Armor",
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "bst": 663,
+      "tags": [
+        "armor"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "flygonarmor",
+      "name": "Flygon-Armor",
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "bst": 568,
+      "tags": [
+        "armor"
+      ],
+      "game": "insurgence"
+    },
+    {
+      "id": "leavannyarmor",
+      "name": "Leavanny-Armor",
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "bst": 548,
+      "tags": [
+        "armor"
+      ],
+      "game": "insurgence"
+    }
+  ],
+  "uranium": [
+    {
+      "id": "ampharos",
+      "name": "Ampharos",
+      "types": [
+        "Electric"
+      ],
+      "bst": 510,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "ampharosmega",
+      "name": "Ampharos-Mega",
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "bst": 610,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "anderind",
+      "name": "Anderind",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "bst": 530,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "antarki",
+      "name": "Antarki",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "arbok",
+      "name": "Arbok",
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "bst": 440,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "archilles",
+      "name": "Archilles",
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "archillesmega",
+      "name": "Archilles-Mega",
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "bst": 640,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "astronite",
+      "name": "Astronite",
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "bst": 545,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "baariette",
+      "name": "Baariette",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 545,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "baariettemega",
+      "name": "Baariette-Mega",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 670,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "baitatao",
+      "name": "Baitatao",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "bst": 610,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "barand",
+      "name": "Barand",
+      "types": [
+        "Dragon"
+      ],
+      "bst": 360,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "beliaddon",
+      "name": "Beliaddon",
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "blubelrog",
+      "name": "Blubelrog",
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "bst": 535,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "brainoar",
+      "name": "Brainoar",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "bst": 530,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "chainite",
+      "name": "Chainite",
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "bst": 495,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "chimaconda",
+      "name": "Chimaconda",
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "coatlith",
+      "name": "Coatlith",
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "bst": 500,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "cocancer",
+      "name": "Cocancer",
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "bst": 515,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "corsoreef",
+      "name": "Corsoreef",
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "bst": 440,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "daikatuna",
+      "name": "Daikatuna",
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "bst": 496,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "dermafrost",
+      "name": "Dermafrost",
+      "types": [
+        "Ice",
+        "Rock"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "dramsama",
+      "name": "Dramsama",
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "bst": 445,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "dramsamamega",
+      "name": "Dramsama-Mega",
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "bst": 530,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "drilgann",
+      "name": "Drilgann",
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "bst": 475,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "drilgannmega",
+      "name": "Drilgann-Mega",
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "bst": 575,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "dunseraph",
+      "name": "Dunseraph",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "bst": 560,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "duplicat",
+      "name": "Duplicat",
+      "types": [
+        "Normal",
+        "Normal"
+      ],
+      "bst": 348,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "electruxo",
+      "name": "Electruxo",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "electruxomega",
+      "name": "Electruxo-Mega",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "bst": 630,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "empirilla",
+      "name": "Empirilla",
+      "types": [
+        "Fighting"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "escartress",
+      "name": "Escartress",
+      "types": [
+        "Ground",
+        "Water"
+      ],
+      "bst": 515,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "eshouten",
+      "name": "Eshouten",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "bst": 450,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "espeon",
+      "name": "Espeon",
+      "types": [
+        "Psychic"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "fafninter",
+      "name": "Fafninter",
+      "types": [
+        "Ice",
+        "Dragon"
+      ],
+      "bst": 590,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "feliger",
+      "name": "Feliger",
+      "types": [
+        "Normal"
+      ],
+      "bst": 575,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "flareon",
+      "name": "Flareon",
+      "types": [
+        "Fire"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "floatzel",
+      "name": "Floatzel",
+      "types": [
+        "Water"
+      ],
+      "bst": 495,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "frikitiki",
+      "name": "Frikitiki",
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "bst": 510,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "frosthra",
+      "name": "Frosthra",
+      "types": [
+        "Bug",
+        "Ice"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "gararewl",
+      "name": "Gararewl",
+      "types": [
+        "Steel"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "gargryph",
+      "name": "Gargryph",
+      "types": [
+        "Rock",
+        "Rock"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "garlikid",
+      "name": "Garlikid",
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "gellin",
+      "name": "Gellin",
+      "types": [
+        "Grass",
+        "Electric"
+      ],
+      "bst": 505,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "glaceon",
+      "name": "Glaceon",
+      "types": [
+        "Ice"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "glavinug",
+      "name": "Glavinug",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "gliscor",
+      "name": "Gliscor",
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "bst": 510,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "gyarados",
+      "name": "Gyarados",
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "haagross",
+      "name": "Haagross",
+      "types": [
+        "Poison",
+        "Electric"
+      ],
+      "bst": 510,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "harptera",
+      "name": "Harptera",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "bst": 565,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "herolune",
+      "name": "Herolune",
+      "types": [
+        "Ground",
+        "Fighting"
+      ],
+      "bst": 493,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "jerbolta",
+      "name": "Jerbolta",
+      "types": [
+        "Electric",
+        "Ground"
+      ],
+      "bst": 430,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "jolteon",
+      "name": "Jolteon",
+      "types": [
+        "Electric"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "kinetmunk",
+      "name": "Kinetmunk",
+      "types": [
+        "Normal",
+        "Electric"
+      ],
+      "bst": 415,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "kiricornmega",
+      "name": "Kiricorn-Mega",
+      "types": [
+        "Fairy",
+        "Normal"
+      ],
+      "bst": 600,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "krakanao",
+      "name": "Krakanao",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "bst": 360,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "krilvolver",
+      "name": "Krilvolver",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "bst": 498,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "laissure",
+      "name": "Laissure",
+      "types": [
+        "Ground"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "lavent",
+      "name": "Lavent",
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "bst": 475,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "leafeon",
+      "name": "Leafeon",
+      "types": [
+        "Grass"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "leviathao",
+      "name": "Leviathao",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "bst": 610,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "luchabra",
+      "name": "Luchabra",
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "bst": 535,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "ludicolo",
+      "name": "Ludicolo",
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "bst": 480,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "luxelong",
+      "name": "Luxelong",
+      "types": [
+        "Dragon",
+        "Fairy"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "majungold",
+      "name": "Majungold",
+      "types": [
+        "Fighting",
+        "Rock"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "metalynx",
+      "name": "Metalynx",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "bst": 530,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "metalynxmega",
+      "name": "Metalynx-Mega",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "bst": 630,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "miasmedic",
+      "name": "Miasmedic",
+      "types": [
+        "Fairy",
+        "Poison"
+      ],
+      "bst": 462,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "mismagius",
+      "name": "Mismagius",
+      "types": [
+        "Ghost"
+      ],
+      "bst": 495,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "navighast",
+      "name": "Navighast",
+      "types": [
+        "Ghost",
+        "Fighting"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "neopunk",
+      "name": "Neopunk",
+      "types": [
+        "Psychic",
+        "Electric"
+      ],
+      "bst": 500,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "nimflora",
+      "name": "Nimflora",
+      "types": [
+        "Bug",
+        "Fairy"
+      ],
+      "bst": 490,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "oblivicorn",
+      "name": "Oblivicorn",
+      "types": [
+        "Fairy",
+        "Dark"
+      ],
+      "bst": 510,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "oblivicornmega",
+      "name": "Oblivicorn-Mega",
+      "types": [
+        "Fairy",
+        "Dark"
+      ],
+      "bst": 610,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "pajay",
+      "name": "Pajay",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "bst": 480,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "paraboom",
+      "name": "Paraboom",
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "bst": 490,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "praseopunk",
+      "name": "Praseopunk",
+      "types": [
+        "Psychic",
+        "Electric"
+      ],
+      "bst": 500,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "raffiti",
+      "name": "Raffiti",
+      "types": [
+        "Dark"
+      ],
+      "bst": 465,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "s51a",
+      "name": "S51-A",
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "s51amega",
+      "name": "S51-A-Mega",
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "bst": 640,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "sableye",
+      "name": "Sableye",
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "bst": 380,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "splendifowl",
+      "name": "Splendifowl",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "bst": 478,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "stenowatt",
+      "name": "Stenowatt",
+      "types": [
+        "Electric"
+      ],
+      "bst": 485,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "sylveon",
+      "name": "Sylveon",
+      "types": [
+        "Fairy"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "syrentide",
+      "name": "Syrentide",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "bst": 558,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "syrentidemega",
+      "name": "Syrentide-Mega",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "bst": 658,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "tanscure",
+      "name": "Tanscure",
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "bst": 455,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "terlard",
+      "name": "Terlard",
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "bst": 455,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "theriamp",
+      "name": "Theriamp",
+      "types": [
+        "Electric",
+        "Rock"
+      ],
+      "bst": 500,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "titanice",
+      "name": "Titanice",
+      "types": [
+        "Ice"
+      ],
+      "bst": 465,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "tracton",
+      "name": "Tracton",
+      "types": [
+        "Dragon",
+        "Steel"
+      ],
+      "bst": 495,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "trawpint",
+      "name": "Trawpint",
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "bst": 490,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "tubareel",
+      "name": "Tubareel",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "umbreon",
+      "name": "Umbreon",
+      "types": [
+        "Dark"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "vaporeon",
+      "name": "Vaporeon",
+      "types": [
+        "Water"
+      ],
+      "bst": 525,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "vilucard",
+      "name": "Vilucard",
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "bst": 493,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "whimsicott",
+      "name": "Whimsicott",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "bst": 480,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "whimsicottmega",
+      "name": "Whimsicott-Mega",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "bst": 580,
+      "tags": [
+        "mega"
+      ],
+      "game": "uranium"
+    },
+    {
+      "id": "winotinger",
+      "name": "Winotinger",
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "uranium"
+    },
+    {
+      "id": "yatagaryu",
+      "name": "Yatagaryu",
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "uranium"
+    }
+  ],
+  "fusion": [
+    {
+      "id": "deltavenusaur",
+      "name": "Delta Venusaur",
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltacharizard",
+      "name": "Delta Charizard",
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "bst": 534,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltablastoise",
+      "name": "Delta Blastoise",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltabisharp",
+      "name": "Delta Bisharp",
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "bst": 490,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltagardevoir",
+      "name": "Delta Gardevoir",
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "bst": 518,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltagallade",
+      "name": "Delta Gallade",
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "bst": 518,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltasunflora",
+      "name": "Delta Sunflora",
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "bst": 425,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaavalugg",
+      "name": "Delta Avalugg",
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "bst": 514,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltascizor",
+      "name": "Delta Scizor",
+      "types": [
+        "Ice",
+        "Fighting"
+      ],
+      "bst": 500,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltascrafty",
+      "name": "Delta Scrafty",
+      "types": [
+        "Grass"
+      ],
+      "bst": 488,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltavespiquen",
+      "name": "Delta Vespiquen",
+      "types": [
+        "Steel",
+        "Fire"
+      ],
+      "bst": 474,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaweezing",
+      "name": "Delta Weezing",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "bst": 490,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaliepard",
+      "name": "Delta Liepard",
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "bst": 446,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltatrevenant",
+      "name": "Delta Trevenant",
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "bst": 474,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaglalie",
+      "name": "Delta Glalie",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltafroslass",
+      "name": "Delta Froslass",
+      "types": [
+        "Fire"
+      ],
+      "bst": 480,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaluxray",
+      "name": "Delta Luxray",
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "bst": 523,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltanoivern",
+      "name": "Delta Noivern",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "bst": 535,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaroserade",
+      "name": "Delta Roserade",
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "bst": 515,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltadrifblim",
+      "name": "Delta Drifblim",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "bst": 498,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltamuk",
+      "name": "Delta Muk",
+      "types": [
+        "Ground"
+      ],
+      "bst": 500,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaquagsire",
+      "name": "Delta Quagsire",
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "bst": 430,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltasnorlax",
+      "name": "Delta Snorlax",
+      "types": [
+        "Grass"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltamismagius",
+      "name": "Delta Mismagius",
+      "types": [
+        "Ice",
+        "Fairy"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltatyphlosion",
+      "name": "Delta Typhlosion",
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "bst": 534,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltasceptile",
+      "name": "Delta Sceptile",
+      "types": [
+        "Dragon",
+        "Fighting"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltablaziken",
+      "name": "Delta Blaziken",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltatorterra",
+      "name": "Delta Torterra",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaserperior",
+      "name": "Delta Serperior",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "bst": 528,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltagreninja",
+      "name": "Delta Greninja",
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "bst": 530,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltapidgeot",
+      "name": "Delta Pidgeot",
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "bst": 479,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltadugtrio",
+      "name": "Delta Dugtrio",
+      "types": [
+        "Ice",
+        "Normal"
+      ],
+      "bst": 405,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaarcanine",
+      "name": "Delta Arcanine",
+      "types": [
+        "Normal",
+        "Dragon"
+      ],
+      "bst": 555,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltagolem",
+      "name": "Delta Golem",
+      "types": [
+        "Psychic",
+        "Rock"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltatentacruel",
+      "name": "Delta Tentacruel",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "bst": 515,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltadodrio",
+      "name": "Delta Dodrio",
+      "types": [
+        "Psychic"
+      ],
+      "bst": 460,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltatangrowth",
+      "name": "Delta Tangrowth",
+      "types": [
+        "Ground",
+        "Fighting"
+      ],
+      "bst": 535,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltakabutops",
+      "name": "Delta Kabutops",
+      "types": [
+        "Bug",
+        "Dark"
+      ],
+      "bst": 495,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltadragonite",
+      "name": "Delta Dragonite",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "bst": 600,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltalanturn",
+      "name": "Delta Lanturn",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "bst": 460,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaraichu",
+      "name": "Delta Raichu",
+      "types": [
+        "Flying",
+        "Fairy"
+      ],
+      "bst": 485,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaambipom",
+      "name": "Delta Ambipom",
+      "types": [
+        "Ghost",
+        "Normal"
+      ],
+      "bst": 482,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltayanmega",
+      "name": "Delta Yanmega",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "bst": 515,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltagirafarig",
+      "name": "Delta Girafarig",
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "bst": 455,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltaelectivire",
+      "name": "Delta Electivire",
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltamagmortar",
+      "name": "Delta Magmortar",
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltamilotic",
+      "name": "Delta Milotic",
+      "types": [
+        "Ghost"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltahaxorus",
+      "name": "Delta Haxorus",
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "bst": 540,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltavolcarona",
+      "name": "Delta Volcarona",
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "bst": 550,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "deltalucario",
+      "name": "Delta Lucario",
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "bst": 525,
+      "tags": [
+        "delta"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "metalynx",
+      "name": "Metalynx",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "bst": 530,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "metalynxmega",
+      "name": "Metalynx-Mega",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "bst": 630,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "archilles",
+      "name": "Archilles",
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "archillesmega",
+      "name": "Archilles-Mega",
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "bst": 640,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "electruxo",
+      "name": "Electruxo",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "electruxomega",
+      "name": "Electruxo-Mega",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "bst": 630,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "baariette",
+      "name": "Baariette",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 545,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "baariettemega",
+      "name": "Baariette-Mega",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "bst": 670,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "dunseraph",
+      "name": "Dunseraph",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "bst": 560,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "jerbolta",
+      "name": "Jerbolta",
+      "types": [
+        "Electric",
+        "Ground"
+      ],
+      "bst": 430,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "gararewl",
+      "name": "Gararewl",
+      "types": [
+        "Steel"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "s51a",
+      "name": "S51-A",
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "s51amega",
+      "name": "S51-A-Mega",
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "bst": 640,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "dramsama",
+      "name": "Dramsama",
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "bst": 445,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "dramsamamega",
+      "name": "Dramsama-Mega",
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "bst": 530,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "yatagaryu",
+      "name": "Yatagaryu",
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "chimaconda",
+      "name": "Chimaconda",
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "harptera",
+      "name": "Harptera",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "bst": 565,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "pajay",
+      "name": "Pajay",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "bst": 480,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "gellin",
+      "name": "Gellin",
+      "types": [
+        "Grass",
+        "Electric"
+      ],
+      "bst": 505,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "frosthra",
+      "name": "Frosthra",
+      "types": [
+        "Bug",
+        "Ice"
+      ],
+      "bst": 550,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "daikatuna",
+      "name": "Daikatuna",
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "bst": 496,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "escartress",
+      "name": "Escartress",
+      "types": [
+        "Ground",
+        "Water"
+      ],
+      "bst": 515,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "antarki",
+      "name": "Antarki",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "brainoar",
+      "name": "Brainoar",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "bst": 530,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "beliaddon",
+      "name": "Beliaddon",
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "titanice",
+      "name": "Titanice",
+      "types": [
+        "Ice"
+      ],
+      "bst": 465,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "tracton",
+      "name": "Tracton",
+      "types": [
+        "Dragon",
+        "Steel"
+      ],
+      "bst": 495,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "splendifowl",
+      "name": "Splendifowl",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "bst": 478,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "dermafrost",
+      "name": "Dermafrost",
+      "types": [
+        "Ice",
+        "Rock"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "drilgann",
+      "name": "Drilgann",
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "bst": 475,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "drilgannmega",
+      "name": "Drilgann-Mega",
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "bst": 575,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "syrentide",
+      "name": "Syrentide",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "bst": 558,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "empirilla",
+      "name": "Empirilla",
+      "types": [
+        "Fighting"
+      ],
+      "bst": 520,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "astronite",
+      "name": "Astronite",
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "bst": 545,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "corsoreef",
+      "name": "Corsoreef",
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "bst": 440,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "eshouten",
+      "name": "Eshouten",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "bst": 450,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "whimsicott",
+      "name": "Whimsicott",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "bst": 480,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "ampharosmega",
+      "name": "Ampharos-Mega",
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "bst": 610,
+      "tags": [
+        "mega"
+      ],
+      "game": "fusion"
+    },
+    {
+      "id": "anderind",
+      "name": "Anderind",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "bst": 530,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "cocancer",
+      "name": "Cocancer",
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "bst": 515,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "coatlith",
+      "name": "Coatlith",
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "bst": 500,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "chainite",
+      "name": "Chainite",
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "bst": 495,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "barand",
+      "name": "Barand",
+      "types": [
+        "Dragon"
+      ],
+      "bst": 360,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "blubelrog",
+      "name": "Blubelrog",
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "bst": 535,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "gargryph",
+      "name": "Gargryph",
+      "types": [
+        "Rock",
+        "Rock"
+      ],
+      "bst": 540,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "haagross",
+      "name": "Haagross",
+      "types": [
+        "Poison",
+        "Electric"
+      ],
+      "bst": 510,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "garlikid",
+      "name": "Garlikid",
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "bst": 600,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "krakanao",
+      "name": "Krakanao",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "bst": 360,
+      "tags": [],
+      "game": "fusion"
+    },
+    {
+      "id": "krilvolver",
+      "name": "Krilvolver",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "bst": 498,
+      "tags": [],
+      "game": "fusion"
+    }
+  ],
+  "insurgence_bans": [
+    "arceusprimal",
+    "giratinaprimal",
+    "regigigasprimal",
+    "mewtwoarmor",
+    "zekromarmor",
+    "shadowmewtwoxmega",
+    "deltamedichammega",
+    "deltametagrosscrystal"
+  ],
+  "uranium_bans": [
+    "uraynegamma",
+    "uraynebeta",
+    "inflagetahmega",
+    "actannuclear",
+    "actan",
+    "lanthan",
+    "aotius",
+    "mutios"
+  ],
+  "meta": {
+    "insurgence_count": 118,
+    "uranium_count": 100,
+    "fusion_count": 100,
+    "regulation": "M-A v1"
+  }
+}
